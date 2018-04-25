@@ -38,8 +38,8 @@
 				</div>
 				<div class="book-cover book-up animated hide-on-med-and-down">
 					<div class="book-card">
-						<img class="front z-depth-3" src="../assets/images/book_front.jpg" alt="Book Cover">
-						<img class="back z-depth-3" src="../assets/images/book_back.jpg" alt="Book Cover">
+						<img class="front z-depth-3" src="./../assets/images/book_front.jpg" alt="Book Cover">
+						<img class="back z-depth-3" src="./../assets/images/book_back.jpg" alt="Book Cover">
 					</div>
 				</div>
 			</div>

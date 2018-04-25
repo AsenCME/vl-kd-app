@@ -259,7 +259,7 @@ body {
   height: 120%;
   width: 35%;
   margin-left: 5%;
-  background: url("../images/face.jpg");
+  background: url("./../images/face.jpg");
   background-size: cover;
   background-position: center;
 }
